@@ -30,6 +30,7 @@ class square():
 
         return "{}".format(self.width)
 
+
 if __name__ == "__main__":
 
     s = square(width=12)
