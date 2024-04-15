@@ -28,7 +28,7 @@ class square():
     def __str__(self):
         """str"""
 
-        return "{}/{}".format(self.width, self.width)
+        return "{}".format(self.width)
 
 if __name__ == "__main__":
 
